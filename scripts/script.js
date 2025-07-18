@@ -1,3 +1,7 @@
+// Slider
+// Create a slider that changes the image every 3 seconds.
+// You can use any 5 images of your choice for the display.
+
 const body = document.querySelector('body');
 
 const images = [
